@@ -1,6 +1,7 @@
 Richard Murillo's README
 
  # E-Commerce Technologies
+ ![Alt text](image-2.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,7 +15,7 @@ Richard Murillo's README
 
  * [Contribution-Guidelines](#contribution-guidelines)
 
- * [Test-Instructions](#test-instructions)
+ * [Screenshots](#screenshots)
 
  * [License](#license)
 
@@ -25,12 +26,14 @@ Richard Murillo's README
 This application creates the backend of a e-comerce website by useing Express.js API and Sequelize to interact with a MySQL database.
 
 ## Installation
+💾 
 
 it clone the repo https://github.com/RichMur84/E-Commerce-Technologies.git to your local machine. To use this application, please run the following command: 
 <br>
 npm install.
 
 ## Usage Information
+💻
 
 Run the following commands to install the dependencies if you are not sure if they are up to date:
 <br>
@@ -62,9 +65,17 @@ npm i express
 
 If you would like to contribute, Push to github and wait to be merged. Or contact me by email. Thank you.
 
-## Test Instructions
+## Screenshots
+![screenshot](./images/Screenshot3.png) 
+<br>
+![screenshot](./images/Screenshot2.png)
 
-n/a
+## DEMO
+🎥
+<br>
+[VS CODE Set Up](https://drive.google.com/file/d/1_JIjxvPF1PyKw-Fk5ds4nYxZimill0Ns/view)
+<br>
+[INSOMNIA DEMO](https://drive.google.com/file/d/1wbDD2WmOvOEEv_rZ99Pp_yxo31grJ8dA/view)
 
 ## Used In This Project
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
