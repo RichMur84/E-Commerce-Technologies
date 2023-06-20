@@ -1,28 +1,26 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-technologies",
   "version": "1.0.0",
-  "description": "",
+  "description": "Richard Murillo's README",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/RichMur84/E-Commerce-Technologies.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+  "author": "Richard Murillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichMur84/E-Commerce-Technologies/issues"
   },
+  "homepage": "https://github.com/RichMur84/E-Commerce-Technologies#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^6.32.0"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.0",
+    "sequelize": "^6.32.1"
   }
 }
