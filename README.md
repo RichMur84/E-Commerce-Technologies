@@ -23,6 +23,7 @@ Richard Murillo's README
 
 ## Description
 
+
 This application creates the backend of a e-comerce website by useing Express.js API and Sequelize to interact with a MySQL database.
 
 ## Installation
